@@ -1,0 +1,14 @@
+Quadratic Equation Solver
+
+ClrHome
+Disp "AX²+BX+C
+Input "A:",A
+Input "B:",B
+Input "C:",C
+(­B+√(B²-4AC))/(2A→D
+(­B-√(B²-4AC))/(2A→E
+Disp " "
+Disp "X="
+Output(6,4,D
+Disp "X="
+Output(7,4,E
